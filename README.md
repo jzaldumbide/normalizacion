@@ -6,7 +6,7 @@ Se incluyen scripts `.sql` separados por cada forma normal y un archivo maestro 
 ---
 
 ## 📂 Archivos incluidos
-- **00_MASTER.sql** → ejecuta todos los pasos en orden.
+- **00_MASTER.sql** → ejecuta todos los pasos en orden. [Ver el archivo completo](./scripts/00_MASTER.sql)
 - **01_0_raw.sql** → tabla desnormalizada (0NF / Raw).
 - **02_1NF.sql** → Primera Forma Normal (1NF).
 - **03_2NF.sql** → Segunda Forma Normal (2NF).

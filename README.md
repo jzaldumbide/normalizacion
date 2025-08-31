@@ -6,15 +6,17 @@ Se incluyen scripts `.sql` separados por cada forma normal y un archivo maestro 
 ---
 
 ## 📂 Archivos incluidos
+## 📜 Scripts de Normalización (MySQL)
+
 - **00_MASTER.sql** → ejecuta todos los pasos en orden. [Ver el archivo completo](./scripts/00_MASTER.sql)
-- **01_0_raw.sql** → tabla desnormalizada (0NF / Raw).
-- **02_1NF.sql** → Primera Forma Normal (1NF).
-- **03_2NF.sql** → Segunda Forma Normal (2NF).
-- **04_3NF.sql** → Tercera Forma Normal (3NF).
-- **04b_BCNF.sql** → Forma Normal de Boyce–Codd (BCNF).
-- **05_4NF.sql** → Cuarta Forma Normal (4NF).
-- **06_5NF.sql** → Quinta Forma Normal (5NF).
-- **99_queries.sql** → consultas de validación y ejemplos.
+- **01_0_raw.sql** → tabla desnormalizada (0NF / Raw). [Ver el archivo completo](./scripts/01_0_raw.sql)
+- **02_1NF.sql** → Primera Forma Normal (1NF). [Ver el archivo completo](./scripts/02_1NF.sql)
+- **03_2NF.sql** → Segunda Forma Normal (2NF). [Ver el archivo completo](./scripts/03_2NF.sql)
+- **04_3NF.sql** → Tercera Forma Normal (3NF). [Ver el archivo completo](./scripts/04_3NF.sql)
+- **04b_BCNF.sql** → Forma Normal de Boyce–Codd (BCNF). [Ver el archivo completo](./scripts/04b_BCNF.sql)
+- **05_4NF.sql** → Cuarta Forma Normal (4NF). [Ver el archivo completo](./scripts/05_4NF.sql)
+- **06_5NF.sql** → Quinta Forma Normal (5NF). [Ver el archivo completo](./scripts/06_5NF.sql)
+- **99_queries.sql** → consultas de validación y ejemplos. [Ver el archivo completo](./scripts/99_queries.sql)
 
 ---
 
